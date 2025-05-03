@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-meh-s-eze-ynab-mcp-client2-badge.png)](https://mseep.ai/app/mcp-mirror-meh-s-eze-ynab-mcp-client2)
+
 # MCP YNAB Server
 
 An MCP server implementation that provides access to YNAB (You Need A Budget) functionality through the Model Context Protocol.
